@@ -1,3 +1,2 @@
 #!/bin/bash
-#in current directory (.) -> in parent directory (../) -> in boot directory (/boot)
 ls -la . ../ /boot
