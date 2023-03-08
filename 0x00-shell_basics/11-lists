@@ -1,0 +1,10 @@
+#!/bin/bash
+#in current directory
+ls -la
+
+#in parent directory
+cd ..
+ls -la
+
+#in boot directory
+ls -la /boot
